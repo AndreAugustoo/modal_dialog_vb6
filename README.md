@@ -21,6 +21,7 @@ Este projeto ensina como criar um **modal dialog moderno** no **Visual Basic 6 (
 Private Sub cmdAbrirModal_Click()
 
   Const TextoGenerico = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius aliquam laudantium explicabo pariatur iste dolorem animi vitae error totam. At sapiente aliquam accusamus facere veritatis."
+
   'Exemplo MsgBox padrão do VB6
   MsgBox TextoGenerico, vbCritical, "Erro"
   'Exemplo MsgBoxRetro
