@@ -2,6 +2,26 @@
 
 Este projeto ensina como criar um **modal dialog moderno** no **Visual Basic 6 (VB6)**, simulando a funcionalidade da `MsgBox`, mas com um **design profissional** inspirado no **Tailwind CSS**.  
 
+## 📸 **Exemplos Visuais do Modal**  
+
+### 🔴 **Modal de Alerta**  
+![Modal de Alerta](img/modal_alerta_exemplo.PNG)
+
+### ✅ **Modal de Sucesso**  
+![Modal de Concluído](img/modal_concluido_exemplo.PNG)
+
+### ❌ **Modal de Erro**  
+![Modal de Erro](img/modal_erro_exemplo.PNG)
+
+### ⚠️ **Modal de Confirmação (Sim ou Não) - Erro**  
+![Modal de Erro Sim ou Não](img/modal_erro_sim_nao_exemplo.PNG)
+
+### ❓ **Modal de Interrogação**  
+![Modal de Interrogação](img/modal_interrogacao_exemplo.PNG)
+
+### ❓ **Modal de Confirmação (Sim ou Não) - Pergunta**  
+![Modal de Interrogação Sim ou Não](img/modal_interrogacao_sim_nao_exemplo.PNG)
+
 ## 🚀 **Recursos do Modal**  
 ✅ Interface moderna e limpa 📌  
 ✅ Substitui o MsgBox padrão do VB6  
