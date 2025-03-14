@@ -14,7 +14,7 @@ Este projeto ensina como criar um **modal dialog moderno** no **Visual Basic 6 (
 2️⃣ **Adicione o `ModalDialog` ao seu projeto**  
 3️⃣ **Chame o modal sempre que precisar exibir uma mensagem** 
 
-## **Obs: O modal simula uma MsgBox padrão do VB6, então é possível utilizar o mesmo padrão para passagem de parâmetros**  
+ **Obs: O modal simula uma MsgBox padrão do VB6, então é possível utilizar o mesmo padrão para passagem de parâmetros**  
 ### **Exemplo de Uso no Formulário**  
 
 ```vb
